@@ -6,17 +6,19 @@ output:
 
 # **Este es mi primer repositorio**
 
-## *Datos de secuencias de ARN*
+## DATOS DE RNA*
 
-### ***Formato fastq tipo de documento de secuencias con calidad de bases***
+### ***Análisis de datos ***
 
 
-#### detectar Variant calling
+#### Análisis cuantitativo
 
-![ARN](https://www.genome.gov/sites/default/files/media/images/tg/Ribonucleic-acid_hero.png)  
+![ARN](https://www.wonolo.com/wp-content/uploads/2019/01/WomenofWonolo-cropped-3.jpg)  
 
 \   
-<iframe src="https://www.youtube.com/embed/DAflT-GTMk4?si=0hDi9yTkFx-Pgq20&amp"data-external= "1" width="560" height="315"> </iframe> 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5sYsuynixuI?si=bvhkHZPLC4pDxHFU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 $A = \pi*r^{2}$ 
 
@@ -29,12 +31,12 @@ $A = \pi*r^{2}$
 ```
 You can create a table:
 
-Table Header  | Second Header
+Age           | 
 ------------- | -------------
-Table Cell    | Cell 2
-Cell 3        | Cell 4
-
-
+< 20          | 10%
+20-30         | 10%
+30-40         | 60%
+40 or more    | 20%
 
 
 
